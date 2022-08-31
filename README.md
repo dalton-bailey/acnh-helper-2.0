@@ -4,7 +4,7 @@ Keep track of collected bugs, fish, sea creatues and fossils.
 
 Keep track of collected furniture and cooking recipes. 
 
-Kepp track of collected Gyroids.
+Keep track of collected Gyroids.
 
 See when bugs, fish and sea creatures are availible by month, time and hemisphere.
 
@@ -15,4 +15,6 @@ View art and fake art.
 View events by month.
 
 View flower breeding charts.
+
+View mystery islands.
 
