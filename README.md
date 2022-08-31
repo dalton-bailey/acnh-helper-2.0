@@ -1,4 +1,4 @@
-<h3>Animal Crossing New Horizons Helper App 2.0<h3>
+Animal Crossing New Horizons Helper App 2.0
 
 Keep track of collected bugs, fish, sea creatues and fossils.
 
